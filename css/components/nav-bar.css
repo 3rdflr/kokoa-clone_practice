@@ -30,8 +30,12 @@
     border-radius: 50%;
     width: 6px;
     height: 6px;
-    left: 90px;
-    bottom: 30px;
+    left: 70px;
+    bottom: 20px;
+}
+
+.dot_right {
+    left: 120px;
 }
 
 .dot_bottom {
